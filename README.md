@@ -13,7 +13,7 @@ and `CSS`, `docker`, `C`, `Golang`, `Linux`, `automation`, `bash` and `CLI`.
 
 Wanna go for coffee?
 
-- How to reach me seman.filip@gmail.com or filip.seman@protonmail.com
+- How to reach me <filip.seman@protonmail.com> or <seman.filip@gmail.com>
 - Other networks [StackOwerflow], [LinkedIn]
 
 [StackOwerflow]: https://stackoverflow.com/users/4396730
