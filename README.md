@@ -7,7 +7,7 @@ Open-source software and development.
 
 I do all this in my free time from my main job. The current main areas of my
 specialization are `Web` development, `TypeScript`, modern `JavaScript`
-and `CSS`, `docker`, `C`, `Linux`, `automation`, `bash` and `CLI`.
+and `CSS`, `docker`, `C`, `Golang`, `Linux`, `automation`, `bash` and `CLI`.
 
 ### Contact 📫
 
