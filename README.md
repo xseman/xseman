@@ -1,7 +1,7 @@
 ### Hello, Friend 👋
 
 My name is **Filip**, I'm perfectionist and eternal student interested in
-Open-source software and development.
+Open-source software and development. I try to delete more code than I write.
 
 ### My work 🧗
 
