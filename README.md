@@ -1,7 +1,8 @@
 ### Hello, Friend 👋
 
-My name is **Filip**, I'm perfectionist and eternal student interested in
-Open-source software and development. I try to delete more code than I write.
+My name is **Filip**, I'm curious eternal student interested in software and 
+development. The more I read, the more I acquire, the more certain I am that I 
+know nothing. I try to delete more code than I write. 
 
 ### My work 🧗
 
