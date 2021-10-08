@@ -12,7 +12,7 @@ and `CSS`, `docker`, `C`, `Golang`, `Linux`, `automation`, `bash` and `CLI`.
 
 ### Contact 📫
 
-Wanna go for coffee?
+Wanna grab coffee? ☕
 
 - How to reach me <filip.seman@protonmail.com> or <seman.filip@gmail.com>
 - Other networks [StackOwerflow], [LinkedIn]
