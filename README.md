@@ -1,15 +1,16 @@
 ### Hello, Friend 👋
 
 My name is **Filip**, I'm curious eternal student interested in software and
-development. The more I read, the more I acquire, the more certain I am that I
-know nothing. I try to delete more code than I write.
+development. I try to delete more code than I write.
+
+The more I read, the more I acquire, the more certain I am that I know nothing.
 
 ### My work 🧗
 
 I do all this in my free time from my main job. The current main areas of my
 specialization are `Web` development.
 
-### Languages and Tools
+### Languages and Tools 🔨
 
 <code><img height="20" src="icons/go.svg"></code>
 <code><img height="20" src="icons/c.svg"></code>
