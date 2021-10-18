@@ -16,6 +16,7 @@ specialization are `Web` development.
 <code><img height="20" src="icons/javascript.svg"></code>
 <code><img height="20" src="icons/html.svg"></code>
 <code><img height="20" src="icons/css3.svg"></code>
+<code><img height="20" src="icons/bash.svg"></code>
 <code><img height="20" src="icons/c.svg"></code>
 <code><img height="20" src="icons/go.svg"></code>
 
