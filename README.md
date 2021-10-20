@@ -10,7 +10,11 @@ The more I read, the more I acquire, the more certain I am that I know nothing.
 I do all this in my free time from my main job. The current main areas of my
 specialization are `Web` development.
 
-### Languages 📜
+### Languages & Tools 🔨
+
+I try to keep my arsenal small but efficient, ideally open source.
+
+`languages`
 
 <code><img height="20" src="icons/typescript.svg"></code>
 <code><img height="20" src="icons/javascript.svg"></code>
@@ -20,7 +24,7 @@ specialization are `Web` development.
 <code><img height="20" src="icons/c.svg"></code>
 <code><img height="20" src="icons/go.svg"></code>
 
-### Tools 🔨
+`tools`
 
 <code><img height="20" src="icons/visual-studio-code.svg"></code>
 <code><img height="20" src="icons/node-js.svg"></code>
