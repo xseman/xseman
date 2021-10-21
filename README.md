@@ -35,12 +35,10 @@ I try to keep my arsenal small but efficient, ideally open source.
 <code><img height="20" src="icons/debian.svg"></code>
 <code><img height="20" src="icons/docker.svg"></code>
 
-### Contact 📫
+### Wanna go for a coffee? ☕
 
-Wanna grab coffee? ☕
-
-- How to reach me <filip.seman@protonmail.com> or <seman.filip@gmail.com>
-- Other networks [StackOwerflow], [LinkedIn]
+- E-mail <filip.seman@protonmail.com> or <seman.filip@gmail.com>
+- Other [StackOwerflow], [LinkedIn]
 
 [StackOwerflow]: https://stackoverflow.com/users/4396730
 [LinkedIn]: https://www.linkedin.com/in/filipseman
