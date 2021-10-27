@@ -30,6 +30,7 @@ Absolute freedom to use any platform. Try to avoid lock-in at all cost
 <code><img height="20" src="icons/linux.svg"></code>
 <code><img height="20" src="icons/debian.svg"></code>
 <code><img height="20" src="icons/docker.svg"></code>
+<code><img height="20" src="icons/openapi.svg"></code>
 
 ### Wanna go for a coffee? ☕
 
