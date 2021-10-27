@@ -12,28 +12,25 @@ specialization are `Web` development.
 
 ### Languages & Tools 🔨
 
-I try to keep my arsenal small but efficient, ideally open source.
+Absolute freedom to use any platform. Try to avoid lock-in at all cost
 
-`languages`
+<img height="20" src="icons/typescript.svg">
+<img height="20" src="icons/javascript.svg">
+<img height="20" src="icons/html.svg">
+<img height="20" src="icons/css3.svg">
+<img height="20" src="icons/bash.svg">
+<img height="20" src="icons/c.svg">
+<img height="20" src="icons/go.svg">
 
-<code><img height="20" src="icons/typescript.svg"></code>
-<code><img height="20" src="icons/javascript.svg"></code>
-<code><img height="20" src="icons/html.svg"></code>
-<code><img height="20" src="icons/css3.svg"></code>
-<code><img height="20" src="icons/bash.svg"></code>
-<code><img height="20" src="icons/c.svg"></code>
-<code><img height="20" src="icons/go.svg"></code>
-
-`tools`
-
-<code><img height="20" src="icons/visual-studio-code.svg"></code>
-<code><img height="20" src="icons/node-js.svg"></code>
-<code><img height="20" src="icons/deno.svg"></code>
-<code><img height="20" src="icons/github.svg"></code>
-<code><img height="20" src="icons/gitlab.svg"></code>
-<code><img height="20" src="icons/linux.svg"></code>
-<code><img height="20" src="icons/debian.svg"></code>
-<code><img height="20" src="icons/docker.svg"></code>
+</br>
+<img height="20" src="icons/visual-studio-code.svg">
+<img height="20" src="icons/node-js.svg">
+<img height="20" src="icons/deno.svg">
+<img height="20" src="icons/github.svg">
+<img height="20" src="icons/gitlab.svg">
+<img height="20" src="icons/linux.svg">
+<img height="20" src="icons/debian.svg">
+<img height="20" src="icons/docker.svg">
 
 ### Wanna go for a coffee? ☕
 
