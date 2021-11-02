@@ -32,7 +32,7 @@ Absolute freedom to use any platform. Try to avoid lock-in at all cost
 <code><img height="20" src="icons/docker.svg"></code>
 <code><img height="20" src="icons/openapi.svg"></code>
 
-### Wanna go for a coffee? ☕
+### Contact 📫
 
 - E-mail <filip.seman@protonmail.com> or <seman.filip@gmail.com>
 - Other [StackOwerflow], [LinkedIn]
