@@ -1,7 +1,7 @@
 ### Hello, Friend 👋
 
-My name is **Filip**, I'm curious eternal student interested in software and
-development. I try to delete more code than I write.
+My name is **Filip**, I'm interested in software development with focus on
+simplicity, clarity, and frugality. I try to delete more code than I write.
 
 The more I read, the more I acquire, the more certain I am that I know nothing.
 
@@ -34,8 +34,8 @@ Absolute freedom to use any platform. Try to avoid lock-in at all cost
 
 ### Contact 📫
 
-- E-mail <filip.seman@protonmail.com> or <seman.filip@gmail.com>
-- Other [StackOwerflow], [LinkedIn]
+-   E-mail <filip.seman@protonmail.com> or <seman.filip@gmail.com>
+-   Other [StackOwerflow], [LinkedIn]
 
-[StackOwerflow]: https://stackoverflow.com/users/4396730
-[LinkedIn]: https://www.linkedin.com/in/filipseman
+[stackowerflow]: https://stackoverflow.com/users/4396730
+[linkedin]: https://www.linkedin.com/in/filipseman
