@@ -12,7 +12,8 @@ specialization are `Web` development.
 
 ### Languages & Tools 🔨
 
-Absolute freedom to use any platform. Try to avoid lock-in at all cost
+The main goal is absolute freedom to use any platform. Try to avoid lock-in at
+all cost
 
 <code><img height="20" src="icons/typescript.svg"></code>
 <code><img height="20" src="icons/javascript.svg"></code>
@@ -34,8 +35,8 @@ Absolute freedom to use any platform. Try to avoid lock-in at all cost
 
 ### Contact 📫
 
--   E-mail <filip.seman@protonmail.com> or <seman.filip@gmail.com>
--   Other [StackOwerflow], [LinkedIn]
+- E-mail <filip.seman@protonmail.com> or <seman.filip@gmail.com>
+- Other [StackOwerflow], [LinkedIn]
 
 [stackowerflow]: https://stackoverflow.com/users/4396730
 [linkedin]: https://www.linkedin.com/in/filipseman
