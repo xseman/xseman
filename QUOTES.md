@@ -57,3 +57,7 @@
 > your shoes, you can steer yourself in any direction you choose.”
 >
 > ― Dr. Seuss
+
+> “No one is more hated than he who speaks the truth”
+>
+> ― Plato
