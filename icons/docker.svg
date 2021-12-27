@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="Docker" viewBox="0 0 512 512"><rect width="512" height="512" fill="#fff" rx="15%"/><path stroke="#066da5" stroke-width="38" d="M296 226h42m-92 0h42m-91 0h42m-91 0h41m-91 0h42m8-46h41m8 0h42m7 0h42m-42-46h42"/><path fill="#066da5" d="m472 228s-18-17-55-11c-4-29-35-46-35-46s-29 35-8 74c-6 3-16 7-31 7H68c-5 19-5 145 133 145 99 0 173-46 208-130 52 4 63-39 63-39"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" viewBox="0 0 20 20" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 3 0 L 17 0 C 18.65625 0 20 1.34375 20 3 L 20 17 C 20 18.65625 18.65625 20 17 20 L 3 20 C 1.34375 20 0 18.65625 0 17 L 0 3 C 0 1.34375 1.34375 0 3 0 Z M 3 0 "/>
+<path style="fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;stroke-width:38;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(2.352941%,42.745098%,64.705884%);stroke-opacity:1;stroke-miterlimit:4;" d="M 296 226 L 338 226 M 246 226 L 288 226 M 197 226 L 239 226 M 148 226 L 189 226 M 98 226 L 140 226 M 148 180 L 189 180 M 197 180 L 239 180 M 246 180 L 288 180 M 246 134 L 288 134 " transform="matrix(0.0390625,0,0,0.0390625,0,0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(2.352941%,42.745098%,64.705884%);fill-opacity:1;" d="M 18.4375 8.90625 C 18.4375 8.90625 17.734375 8.242188 16.289062 8.476562 C 16.132812 7.34375 14.921875 6.679688 14.921875 6.679688 C 14.921875 6.679688 13.789062 8.046875 14.609375 9.570312 C 14.375 9.6875 13.984375 9.84375 13.398438 9.84375 L 2.65625 9.84375 C 2.460938 10.585938 2.460938 15.507812 7.851562 15.507812 C 11.71875 15.507812 14.609375 13.710938 15.976562 10.429688 C 18.007812 10.585938 18.4375 8.90625 18.4375 8.90625 "/>
+</g>
+</svg>
