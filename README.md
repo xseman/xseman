@@ -19,17 +19,17 @@ all cost
 <code> ![alt](icons/typescript.svg)</code>
 <code> ![alt](icons/webassembly.svg)</code>
 <code> ![alt](icons/javascript.svg)</code>
-<code> ![alt](icons/html.svg) </code>
+<code> ![alt](icons/html.svg)</code>
 <code> ![alt](icons/css.svg)</code>
 <code> ![alt](icons/bash.svg)</code>
 <code> ![alt](icons/c.svg)</code>
 <code> ![alt](icons/go.svg)</code>
 
-<code> ![alt](icons/vscode.svg) </code>
-<code> ![alt](icons/nodejs.svg) </code>
-<code> ![alt](icons/deno.svg) </code>
-<code> ![alt](icons/github.svg) </code>
-<code> ![alt](icons/gitlab.svg) </code>
-<code> ![alt](icons/linux.svg) </code>
-<code> ![alt](icons/docker.svg) </code>
-<code> ![alt](icons/openapi.svg) </code>
+<code> ![alt](icons/vscode.svg)</code>
+<code> ![alt](icons/nodejs.svg)</code>
+<code> ![alt](icons/deno.svg)</code>
+<code> ![alt](icons/github.svg)</code>
+<code> ![alt](icons/gitlab.svg)</code>
+<code> ![alt](icons/linux.svg)</code>
+<code> ![alt](icons/docker.svg)</code>
+<code> ![alt](icons/openapi.svg)</code>
