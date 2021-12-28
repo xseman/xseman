@@ -25,7 +25,6 @@ all cost
 <code><img height="20" src="icons/c.svg"></code>
 <code><img height="20" src="icons/go.svg"></code>
 
-<code><img height="20" src="icons/webassembly.svg"></code>
 <code><img height="20" src="icons/vscode.svg"></code>
 <code><img height="20" src="icons/nodejs.svg"></code>
 <code><img height="20" src="icons/deno.svg"></code>
