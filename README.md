@@ -1,14 +1,14 @@
 ### Hello, Friend 👋
 
 I'm interested in software development with focus on simplicity, clarity, and
-frugality. I try to delete more code than I write.
+frugality.\
+I try to delete more code than I write.
 
 I do all this in my free time from my main job. The current main areas of my
 specialization are `Web` development.
 
 > “The more I read, the more I acquire, the more certain I am that I know
-> nothing.”
->
+> nothing.”\
 > ― Voltaire
 
 ### Languages & Tools 🔨
