@@ -26,6 +26,7 @@ all cost
 <code> ![alt](icons/go.svg)</code>
 
 <code> ![alt](icons/vscode.svg)</code>
+<code> ![alt](icons/react.svg)</code>
 <code> ![alt](icons/nodejs.svg)</code>
 <code> ![alt](icons/deno.svg)</code>
 <code> ![alt](icons/github.svg)</code>
