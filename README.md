@@ -34,3 +34,5 @@ all cost
 <code> ![alt](icons/linux.svg)</code>
 <code> ![alt](icons/docker.svg)</code>
 <code> ![alt](icons/openapi.svg)</code>
+<code> ![alt](icons/i18n.svg)</code>
+<code> ![alt](icons/express.js.svg)</code>
