@@ -7,9 +7,7 @@ I try to delete more code than I write.
 I do all this in my free time from my main job. The current main areas of my
 specialization are `Web` development.
 
-> “The more I read, the more I acquire, the more certain I am that I know
-> nothing.”\
-> ― Voltaire
+[Favourite quotes](./QUOTES.md)
 
 ### Languages & Tools 🔨
 
