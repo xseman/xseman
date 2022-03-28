@@ -52,3 +52,9 @@
 > Any organization that designs a system (defined broadly) will produce a design
 > whose structure is a copy of the organization's communication structure.\
 > ―  Melvin E. Conway
+
+> Simplicity is the heart of the Unix philosophy. The more code lines you have
+> removed, the more progress you have made. As the number of lines of code in
+> your software shrinks, the more skilled you have become and the less your
+> software sucks.
+> ― Suckless software
