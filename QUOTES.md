@@ -1,5 +1,8 @@
 # Favourite quotes
 
+“Talk is cheap, show me the code"  
+― Linus Torvalds
+
 “Whether you think you can, or you think you can’t, you’re right.”  
 ― Henry Ford
 
