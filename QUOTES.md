@@ -1,12 +1,21 @@
 # Favourite quotes
 
-“Talk is cheap, show me the code"  
+“The more I read, the more I acquire, the more certain I am that I know nothing.”  
+― Voltaire
+
+“Talk is cheap, show me the code“  
 ― Linus Torvalds
 
 “Whether you think you can, or you think you can’t, you’re right.”  
 ― Henry Ford
 
-“Duplication is far cheaper than the wrong abstraction"  
+“Simplicity is the heart of the Unix philosophy. The more code lines you have  
+removed, the more progress you have made. As the number of lines of code in  
+your software shrinks, the more skilled you have become and the less your  
+software sucks.“  
+― Suckless software
+
+“Duplication is far cheaper than the wrong abstraction“  
 ― Sandi Metz
 
 “Make it as simple as possible, but not simpler.”  
@@ -27,10 +36,6 @@ not impossible) to do the wrong things.”
 greater the temptation to withstand.”  
 ― Stephen King, The Dark Tower
 
-“The more I read, the more I acquire, the more certain I am that I know  
-nothing.”  
-― Voltaire
-
 “Always leave the code behind in a better state than you found it. If everyone  
 on the team is doing this, they make small regular contributions to code base  
 health every day.”  
@@ -45,16 +50,10 @@ Any organization that designs a system (defined broadly) will produce a design
 whose structure is a copy of the organization's communication structure.  
 ―  Melvin E. Conway
 
-Simplicity is the heart of the Unix philosophy. The more code lines you have  
-removed, the more progress you have made. As the number of lines of code in  
-your software shrinks, the more skilled you have become and the less your  
-software sucks.  
-― Suckless software
-
 “Graphical user interfaces make easy tasks easy, while command line interfaces  
-make difficult tasks possible"  
+make difficult tasks possible“  
 ― William E. Shotts Jr., The Linux Command Line
 
 “Perfection is achieved, not when there is nothing more to add, but when there  
-is nothing left to take away"  
+is nothing left to take away“  
 ― Antoine de Saint-Exupéry
