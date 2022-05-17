@@ -51,6 +51,8 @@ software sucks.“
 “Only fools don't change their mind.”  
 ― A French Saying
 
+</br>
+
 “Smart people learn from everything and everyone, average people from their  
 experiences, stupid people already have all the answers.”  
 ― Socrates
