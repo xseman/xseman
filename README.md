@@ -5,13 +5,8 @@ frugality.
 I try to delete more code than I write.
 
 I do all this in my free time from my main job.  
-The current main areas of my specialization are `Web` development.
 
-[Favourite quotes](./QUOTES.md)
-
-<!-- ### StackOwerflow
-
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4396730&layout=compact)](https://stackoverflow.com/users/4396730/) -->
+[Favourite quotes...](./QUOTES.md)
 
 ### Languages & Tools 🔨
 
