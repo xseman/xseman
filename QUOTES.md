@@ -1,6 +1,7 @@
 # Favourite quotes
 
-“The more I read, the more I acquire, the more certain I am that I know nothing.”  
+“The more I read, the more I acquire, the more certain I am that I know
+nothing.”  
 ― Voltaire
 
 </br>
@@ -65,6 +66,12 @@ not impossible) to do the wrong things.”
 
 </br>
 
+“Success is no accident. It is hard work, perseverance, learning, studying,
+sacrifice and most of all, love of what you are doing or learning to do.”  
+― Pele
+
+</br>
+
 “Before victory comes temptation. And the greater the victory to win, the  
 greater the temptation to withstand.”  
 ― Stephen King, The Dark Tower
@@ -103,14 +110,14 @@ is nothing left to take away“
 
 </br>
 
-“I learned a painful lesson, that for small programs dynamic typing is great, 
-for large programs you have to have a more disciplined approach and it helps if 
-the language actually gives you that discipline, rather than telling you 'Well 
-you can do whatever you want'. I found TypeScript is actually incredibly useful, 
-so we're adding a similar idea to Python, we're adding it in a slightly 
-different way because we have different context ... I thought dynamic languages 
-were easier to approach because you haven't got types that are this bother all 
-the time. Well it turns out that you can actually be more productive by having 
-types if you do it in a non-intrusive manner and if you work hard doing good 
+“I learned a painful lesson, that for small programs dynamic typing is great,
+for large programs you have to have a more disciplined approach and it helps if
+the language actually gives you that discipline, rather than telling you 'Well
+you can do whatever you want'. I found TypeScript is actually incredibly useful,
+so we're adding a similar idea to Python, we're adding it in a slightly
+different way because we have different context ... I thought dynamic languages
+were easier to approach because you haven't got types that are this bother all
+the time. Well it turns out that you can actually be more productive by having
+types if you do it in a non-intrusive manner and if you work hard doing good
 type inference and so forth.“  
 ― Guido van Rossum (April, 2019)
