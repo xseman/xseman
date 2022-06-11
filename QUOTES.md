@@ -110,14 +110,22 @@ is nothing left to take away“
 
 </br>
 
-“I learned a painful lesson, that for small programs dynamic typing is great,
-for large programs you have to have a more disciplined approach and it helps if
-the language actually gives you that discipline, rather than telling you 'Well
-you can do whatever you want'. I found TypeScript is actually incredibly useful,
-so we're adding a similar idea to Python, we're adding it in a slightly
-different way because we have different context ... I thought dynamic languages
-were easier to approach because you haven't got types that are this bother all
-the time. Well it turns out that you can actually be more productive by having
-types if you do it in a non-intrusive manner and if you work hard doing good
+“So the people that can make the company more successful are sales and marketing  
+people, and they end up running the companies. And the product people get driven  
+out of the decision making forums, and the companies forget what it means to  
+make great products.“  
+― Steve Jobs
+
+</br>
+
+“I learned a painful lesson, that for small programs dynamic typing is great,  
+for large programs you have to have a more disciplined approach and it helps if  
+the language actually gives you that discipline, rather than telling you 'Well  
+you can do whatever you want'. I found TypeScript is actually incredibly useful,  
+so we're adding a similar idea to Python, we're adding it in a slightly  
+different way because we have different context ... I thought dynamic languages  
+were easier to approach because you haven't got types that are this bother all  
+the time. Well it turns out that you can actually be more productive by having  
+types if you do it in a non-intrusive manner and if you work hard doing good  
 type inference and so forth.“  
 ― Guido van Rossum (April, 2019)
