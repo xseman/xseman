@@ -54,6 +54,11 @@ software sucks.“
 
 </br>
 
+“Happiness isn't real, unless it is shared.”  
+― Chris McCandless
+
+</br>
+
 “Smart people learn from everything and everyone, average people from their  
 experiences, stupid people already have all the answers.”  
 ― Socrates
@@ -66,7 +71,7 @@ not impossible) to do the wrong things.”
 
 </br>
 
-“Success is no accident. It is hard work, perseverance, learning, studying,
+“Success is no accident. It is hard work, perseverance, learning, studying,  
 sacrifice and most of all, love of what you are doing or learning to do.”  
 ― Pele
 
