@@ -38,4 +38,4 @@ all cost
 ![alt](icons/vue.svg)
 ![alt](icons/angular.svg)
 
-[More skills...](./SKILLS.md)
+<!-- [More skills...](./SKILLS.md) -->
