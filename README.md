@@ -4,7 +4,9 @@ I'm interested in software development with focus on simplicity, clarity, and
 frugality.  
 I try to delete more code than I write.
 
-I do all this in my free time from my main job.  
+> “The more I read, the more I acquire, the more certain I am that I know
+> nothing.”  
+> ― Voltaire
 
 [Favourite quotes...](./QUOTES.md)
 
@@ -35,3 +37,5 @@ all cost
 ![alt](icons/react.svg)
 ![alt](icons/vue.svg)
 ![alt](icons/angular.svg)
+
+[More skills...](./SKILLS.md)
