@@ -11,6 +11,11 @@ nothing.”\
 
 </br>
 
+“The one who might be holding you back is you.”\
+― Frank Sonnenberg
+
+</br>
+
 “Whether you think you can, or you think you can’t, you’re right.”\
 ― Henry Ford
 
