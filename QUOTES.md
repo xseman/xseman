@@ -41,7 +41,8 @@ nothing.”\
 
 </br>
 
-“What one programmer can do in one month, two programmers can do in two months.”\
+“What one programmer can do in one month, two programmers can do in two\
+months.”\
 ― Fred Brooks
 
 </br>
@@ -153,3 +154,9 @@ the time. Well it turns out that you can actually be more productive by having\
 types if you do it in a non-intrusive manner and if you work hard doing good\
 type inference and so forth.“\
 ― Guido van Rossum (April, 2019)
+
+</br>
+
+“There is no decent place to stand in a massacre, but if a woman takes your\
+hand then go and stand with her”\
+― Leonard Cohen
