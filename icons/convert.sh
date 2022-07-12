@@ -7,6 +7,8 @@ for cmd in {rsvg-convert,}; do
     fi
 done
 
+cd "$(dirname "$0")" || exit 1
+
 TEMP="$(mktemp -d)" || exit
 
 for svg in *.svg; do
