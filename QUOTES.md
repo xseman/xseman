@@ -160,3 +160,9 @@ type inference and so forth.“\
 “There is no decent place to stand in a massacre, but if a woman takes your\
 hand then go and stand with her”\
 ― Leonard Cohen
+
+<br/>
+
+“If the only tool you have is a hammer, it is tempting to treat everything as\
+if it were a nail“\
+― Abraham Maslow
