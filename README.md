@@ -35,7 +35,7 @@ all cost
 ![alt](icons/i18n.svg)
 ![alt](icons/express.js.svg)
 ![alt](icons/react.svg)
-![alt](icons/lit-element.svg)
+![alt](icons/lit.svg)
 ![alt](icons/vue.svg)
 ![alt](icons/angular.svg)
 
