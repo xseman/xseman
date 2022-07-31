@@ -166,3 +166,13 @@ hand then go and stand with her”\
 “If the only tool you have is a hammer, it is tempting to treat everything as\
 if it were a nail“\
 ― Abraham Maslow
+
+<br/>
+
+“Take risks, if you win, you will be happy, if you lose, you will be wiser.”\
+― Swami Vivekananda
+
+<br/>
+
+“If you risk nothing, then you risk everything.”\
+― Geena Davis
