@@ -176,3 +176,8 @@ if it were a nail“\
 
 “If you risk nothing, then you risk everything.”\
 ― Geena Davis
+
+<br/>
+
+“First you imitate, then you innovate.”\
+― Miles Davis
