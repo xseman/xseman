@@ -181,3 +181,8 @@ if it were a nail“\
 
 “First you imitate, then you innovate.”\
 ― Miles Davis
+
+<br/>
+
+”A strange game. The only winning move is not to play.”\
+― WarGames
