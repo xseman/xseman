@@ -189,13 +189,13 @@ if it were a nail“\
 
 <br/>
 
-“Even if the grass is greener on the other side of the fence, keep to your own
-side; it's where you belong. There you can plant your own grass and tend to
+“Even if the grass is greener on the other side of the fence, keep to your own\
+side; it's where you belong. There you can plant your own grass and tend to\
 it.”\
 ― Richelle E. Goodrich
 
 <br/>
 
-”Simplicity is complicated; simplicity hides a great deal of complexity, and
+”Simplicity is complicated; simplicity hides a great deal of complexity, and\
 that both the simplicity and complexity are part of the design.”\
 ― Rob Pike
