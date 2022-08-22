@@ -199,3 +199,13 @@ it.”\
 ”Simplicity is complicated; simplicity hides a great deal of complexity, and\
 that both the simplicity and complexity are part of the design.”\
 ― Rob Pike
+
+<br/>
+
+”Never interrupt your enemy when he is making a mistake.”\
+― Napoleon Bonaparte
+
+<br/>
+
+“Your worst enemy is your best teacher.”\
+— Buddha
