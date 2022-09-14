@@ -221,3 +221,14 @@ You put it into a teapot, it becomes the teapot.\
 Now water can flow or it can crash.\
 Be water, my friend.“\
 — Bruce Lee
+
+<br/>
+
+“I'm suspicious of people who don't like dogs, but I trust a dog when it\
+doesn't like a person.”\
+― Bill Murray
+
+<br/>
+
+“Don't get mad, get busy.”\
+― Rob Muhlestein
