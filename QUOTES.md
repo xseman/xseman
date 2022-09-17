@@ -1,115 +1,113 @@
 # Favourite quotes
 
-“The more I read, the more I acquire, the more certain I am that I know
-nothing.”\
+The more I read, the more I acquire, the more certain I am that I know nothing.\
 ― Voltaire
 
 </br>
 
-“Talk is cheap, show me the code“\
+Talk is cheap, show me the code.\
 ― Linus Torvalds
 
 </br>
 
-“The one who might be holding you back is you.”\
+The one who might be holding you back is you.\
 ― Frank Sonnenberg
 
 </br>
 
-“Whether you think you can, or you think you can’t, you’re right.”\
+Whether you think you can, or you think you can’t, you’re right.\
 ― Henry Ford
 
 </br>
 
-“Duplication is far cheaper than the wrong abstraction“\
+Duplication is far cheaper than the wrong abstraction.\
 ― Sandi Metz
 
 </br>
 
-“GitHub is the largest closed source collection of open source repositories“\
+GitHub is the largest closed source collection of open source repositories.\
 ― Unknown
 
 </br>
 
-“Those who speak do not know. Those who know do not speak.”\
+Those who speak do not know. Those who know do not speak.\
 ― Lao Tzu
 
 </br>
 
-“Make it as simple as possible, but not simpler.”\
+Make it as simple as possible, but not simpler.\
 ― Albert Einstein
 
 </br>
 
-“What one programmer can do in one month, two programmers can do in two\
-months.”\
+What one programmer can do in one month, two programmers can do in two months.\
 ― Fred Brooks
 
 </br>
 
-“People have an enormous tendency to resist change. They love to say, 'We've\
-always done it this way.' I try to fight that.”\
+People have an enormous tendency to resist change. They love to say, 'We've\
+always done it this way.' I try to fight that.\
 ― Grace Hopper
 
 </br>
 
-“Simplicity is the heart of the Unix philosophy. The more code lines you have\
+Simplicity is the heart of the Unix philosophy. The more code lines you have\
 removed, the more progress you have made. As the number of lines of code in\
 your software shrinks, the more skilled you have become and the less your\
-software sucks.“\
+software sucks.\
 ― Suckless software
 
 </br>
 
-“No one is more hated than he who speaks the truth”\
+No one is more hated than he who speaks the truth.\
 ― Plato
 
 </br>
 
-“Only fools don't change their mind.”\
+Only fools don't change their mind.\
 ― A French Saying
 
 </br>
 
-“Happiness isn't real, unless it is shared.”\
+Happiness isn't real, unless it is shared.\
 ― Chris McCandless
 
 </br>
 
-“Smart people learn from everything and everyone, average people from their\
-experiences, stupid people already have all the answers.”\
+Smart people learn from everything and everyone, average people from their\
+experiences, stupid people already have all the answers.\
 ― Socrates
 
 </br>
 
-“A well-designed system makes it easy to do the right things and annoying (but\
-not impossible) to do the wrong things.”\
+A well-designed system makes it easy to do the right things and annoying (but\
+not impossible) to do the wrong things.\
 ― Jeff Atwood
 
 </br>
 
-“Success is no accident. It is hard work, perseverance, learning, studying,\
-sacrifice and most of all, love of what you are doing or learning to do.”\
+Success is no accident. It is hard work, perseverance, learning, studying,\
+sacrifice and most of all, love of what you are doing or learning to do.\
 ― Pele
 
 </br>
 
-“Before victory comes temptation. And the greater the victory to win, the\
-greater the temptation to withstand.”\
+Before victory comes temptation. And the greater the victory to win, the\
+greater the temptation to withstand.\
 ― Stephen King, The Dark Tower
 
 </br>
 
-“Always leave the code behind in a better state than you found it. If everyone\
+Always leave the code behind in a better state than you found it. If everyone\
 on the team is doing this, they make small regular contributions to code base\
-health every day.”\
+health every day.\
 ― Unknown
 
 </br>
 
-“Be who you are and say how you feel, because those who mind don't matter, and\
+Be who you are and say how you feel, because those who mind don't matter, and\
 those who matter don't mind. You have brains in your head, you have feet in\
-your shoes, you can steer yourself in any direction you choose.”\
+your shoes, you can steer yourself in any direction you choose.\
 ― Dr. Seuss
 
 </br>
@@ -120,29 +118,28 @@ whose structure is a copy of the organization's communication structure.\
 
 </br>
 
-“Graphical user interfaces make easy tasks easy, while command line interfaces\
-make difficult tasks possible“\
+Graphical user interfaces make easy tasks easy, while command line interfaces\
+make difficult tasks possible\
 ― William E. Shotts Jr., The Linux Command Line
 
 </br>
 
-“Perfection is achieved, not when there is nothing more to add, but when there\
-is nothing left to take away“\
+Perfection is achieved, not when there is nothing more to add, but when there\
+is nothing left to take away\
 ― Antoine de Saint-Exupéry
 
 </br>
 
-“So the people that can make the company more successful are sales and
-marketing\
+So the people that can make the company more successful are sales and marketing\
 people, and they end up running the companies. And the product people get
 driven\
 out of the decision making forums, and the companies forget what it means to\
-make great products.“\
+make great products.\
 ― Steve Jobs
 
 </br>
 
-“I learned a painful lesson, that for small programs dynamic typing is great,\
+I learned a painful lesson, that for small programs dynamic typing is great,\
 for large programs you have to have a more disciplined approach and it helps if\
 the language actually gives you that discipline, rather than telling you 'Well\
 you can do whatever you want'. I found TypeScript is actually incredibly
@@ -152,83 +149,82 @@ different way because we have different context ... I thought dynamic languages\
 were easier to approach because you haven't got types that are this bother all\
 the time. Well it turns out that you can actually be more productive by having\
 types if you do it in a non-intrusive manner and if you work hard doing good\
-type inference and so forth.“\
+type inference and so forth.\
 ― Guido van Rossum (April, 2019)
 
 </br>
 
-“There is no decent place to stand in a massacre, but if a woman takes your\
-hand then go and stand with her”\
+There is no decent place to stand in a massacre, but if a woman takes your\
+hand then go and stand with her\
 ― Leonard Cohen
 
 <br/>
 
-“If the only tool you have is a hammer, it is tempting to treat everything as\
-if it were a nail“\
+If the only tool you have is a hammer, it is tempting to treat everything as\
+if it were a nail\
 ― Abraham Maslow
 
 <br/>
 
-“Take risks, if you win, you will be happy, if you lose, you will be wiser.”\
+Take risks, if you win, you will be happy, if you lose, you will be wiser.\
 ― Swami Vivekananda
 
 <br/>
 
-“If you risk nothing, then you risk everything.”\
+If you risk nothing, then you risk everything.\
 ― Geena Davis
 
 <br/>
 
-“First you imitate, then you innovate.”\
+First you imitate, then you innovate.\
 ― Miles Davis
 
 <br/>
 
-”A strange game. The only winning move is not to play.”\
+A strange game. The only winning move is not to play.\
 ― WarGames
 
 <br/>
 
-“Even if the grass is greener on the other side of the fence, keep to your own\
-side; it's where you belong. There you can plant your own grass and tend to\
-it.”\
+Even if the grass is greener on the other side of the fence, keep to your own\
+side; it's where you belong. There you can plant your own grass and tend to it.\
 ― Richelle E. Goodrich
 
 <br/>
 
-”Simplicity is complicated; simplicity hides a great deal of complexity, and\
-that both the simplicity and complexity are part of the design.”\
+Simplicity is complicated; simplicity hides a great deal of complexity, and\
+that both the simplicity and complexity are part of the design.\
 ― Rob Pike
 
 <br/>
 
-”Never interrupt your enemy when he is making a mistake.”\
+Never interrupt your enemy when he is making a mistake.\
 ― Napoleon Bonaparte
 
 <br/>
 
-“Your worst enemy is your best teacher.”\
+Your worst enemy is your best teacher.\
 — Buddha
 
 <br/>
 
-“Be Water, My Friend.\
+Be Water, My Friend.\
 Empty your mind.\
 Be formless, shapeless, like water.\
 You put water into a cup, it becomes the cup.\
 You put water into a bottle, it becomes the bottle.\
 You put it into a teapot, it becomes the teapot.\
 Now water can flow or it can crash.\
-Be water, my friend.“\
+Be water, my friend.\
 — Bruce Lee
 
 <br/>
 
-“I'm suspicious of people who don't like dogs, but I trust a dog when it\
-doesn't like a person.”\
+I'm suspicious of people who don't like dogs, but I trust a dog when it doesn't\
+like a person.\
 ― Bill Murray
 
 <br/>
 
-“Don't get mad, get busy.”\
+Don't get mad, get busy.\
 ― Rob Muhlestein
