@@ -228,3 +228,8 @@ like a person.\
 
 Don't get mad, get busy.\
 ― Rob Muhlestein
+
+<br/>
+
+Worry does not empty tomorrow of its sorrow. It empties today of its strength.\
+― Corrie Ten Boom
