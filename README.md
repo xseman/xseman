@@ -1,9 +1,7 @@
 ### Hello, Friend 👋
 
 I'm hobbyist and researcher interested in software development with focus on\
-simplicity, clarity, and frugality.
-
-I try to delete more code than I write.
+simplicity, clarity, and frugality. I try to delete more code than I write.
 
 > The more I read, the more I acquire, the more certain I am that I know
 > nothing.\
