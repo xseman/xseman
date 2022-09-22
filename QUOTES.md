@@ -240,3 +240,10 @@ Follow the rules. But, don't follow stupid rules... If you're going to stand up\
 and break a rule, think about it, and you have to be willing to take the\
 consequences. But, there's consequences to not standing up to stupid rules too.\
 ― Jordan Peterson
+
+<br/>
+
+You can't truly call yourself "peaceful" unless you're capable of great\
+violence. If you're not capable of violence you're not peaceful, you're\
+harmless.\
+― Unknown
