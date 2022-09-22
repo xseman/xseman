@@ -233,3 +233,10 @@ Don't get mad, get busy.\
 
 Worry does not empty tomorrow of its sorrow. It empties today of its strength.\
 ― Corrie Ten Boom
+
+<br/>
+
+Follow the rules. But, don't follow stupid rules... If you're going to stand up\
+and break a rule, think about it, and you have to be willing to take the\
+consequences. But, there's consequences to not standing up to stupid rules too.\
+― Jordan Peterson
