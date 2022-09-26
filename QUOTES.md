@@ -252,3 +252,8 @@ harmless.\
 
 Its the not the Destination, It's the journey.\
 ― Ralph Waldo Emerson, Self-Reliance
+
+<br/>
+
+There is no such thing as perfect security, only varying levels of insecurity.\
+― Salman Rushdie
