@@ -247,3 +247,8 @@ You can't truly call yourself "peaceful" unless you're capable of great\
 violence. If you're not capable of violence you're not peaceful, you're\
 harmless.\
 ― Unknown
+
+<br/>
+
+Its the not the Destination, It's the journey.\
+― Ralph Waldo Emerson, Self-Reliance
