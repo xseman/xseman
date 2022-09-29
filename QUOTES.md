@@ -257,3 +257,9 @@ Its the not the Destination, It's the journey.\
 
 There is no such thing as perfect security, only varying levels of insecurity.\
 ― Salman Rushdie
+
+<br/>
+
+You should be afraid of taking risks and pursuing something meaningful, but you\
+should be more afraid of staying where you are if it's making you miserable.\
+― Jordan Peterson
