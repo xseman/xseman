@@ -263,3 +263,8 @@ There is no such thing as perfect security, only varying levels of insecurity.\
 You should be afraid of taking risks and pursuing something meaningful, but you\
 should be more afraid of staying where you are if it's making you miserable.\
 ― Jordan Peterson
+
+<br/>
+
+Lies run sprints, but the truth runs marathons.\
+― Michael Jackson
