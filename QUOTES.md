@@ -268,3 +268,9 @@ should be more afraid of staying where you are if it's making you miserable.\
 
 Lies run sprints, but the truth runs marathons.\
 ― Michael Jackson
+
+<br/>
+
+If you tell a lie big enough and keep repeating it, people will eventually come\
+to believe it.\
+― Joseph Goebbels
