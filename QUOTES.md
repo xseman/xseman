@@ -274,3 +274,14 @@ Lies run sprints, but the truth runs marathons.\
 If you tell a lie big enough and keep repeating it, people will eventually come\
 to believe it.\
 ― Joseph Goebbels
+
+<br/>
+
+Do you want to know who you are? Don’t ask. Act! Action will delineate and\
+define you.\
+― Thomas Jefferson
+
+<br/>
+
+If you want to achieve greatness stop asking for permission.\
+– Unknown
