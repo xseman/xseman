@@ -285,3 +285,11 @@ define you.\
 
 If you want to achieve greatness stop asking for permission.\
 – Unknown
+
+<br/>
+
+I like hiring people for who they're gonna be tomorrow, versus who they are\
+today. Because some people are smart, and they'll be that same person tomorrow,\
+whereas the other guy or girl will be ridiculously smarter a year from now and\
+surpass the people you already have.\
+– Erik St. Martin
