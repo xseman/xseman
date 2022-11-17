@@ -293,3 +293,8 @@ today. Because some people are smart, and they'll be that same person tomorrow,\
 whereas the other guy or girl will be ridiculously smarter a year from now and\
 surpass the people you already have.\
 – Erik St. Martin
+
+<br/>
+
+The most damaging phrase in the language is ‘We’ve always done it this way’.\
+– Grace Hopper
