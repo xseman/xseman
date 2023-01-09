@@ -310,3 +310,9 @@ his body is capable.\
 
 Good judgement comes from experience, and experience comes from bad judgment.\
 ― Fred Brooks
+
+<br/>
+
+Sometimes when you innovate, you make mistakes. It is best to admit them quick\
+and get on with improving your other innovations.\
+― Steve Jobs
