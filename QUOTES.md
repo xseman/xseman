@@ -316,3 +316,8 @@ Good judgement comes from experience, and experience comes from bad judgment.\
 Sometimes when you innovate, you make mistakes. It is best to admit them quick\
 and get on with improving your other innovations.\
 ― Steve Jobs
+
+<br/>
+
+The bigger the interface, the weaker the abstraction.\
+― Rob Pike
