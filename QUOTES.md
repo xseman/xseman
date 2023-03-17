@@ -321,3 +321,9 @@ and get on with improving your other innovations.\
 
 The bigger the interface, the weaker the abstraction.\
 ― Rob Pike
+
+<br/>
+
+Losers quit when they fail. Winners fail until they succeed.
+
+― Robert T. Kiyosaki
