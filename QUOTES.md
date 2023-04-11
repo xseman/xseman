@@ -324,6 +324,10 @@ The bigger the interface, the weaker the abstraction.\
 
 <br/>
 
-Losers quit when they fail. Winners fail until they succeed.
-
+Losers quit when they fail. Winners fail until they succeed.\
 ― Robert T. Kiyosaki
+
+<br/>
+
+If you knew how much work was put into it, you wouldn't call it genius.\
+― Michelangelo
