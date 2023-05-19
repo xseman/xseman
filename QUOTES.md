@@ -324,13 +324,16 @@ The bigger the interface, the weaker the abstraction.\
 
 <br/>
 
-Losers quit when they fail. Winners fail until they succeed.
-
+Losers quit when they fail. Winners fail until they succeed.\
 ― Robert T. Kiyosaki
 
 <br/>
 
-Every child is an artist. The problem is how to remain an artist once we grow
-up.
+If you knew how much work was put into it, you wouldn't call it genius.\
+― Michelangelo
 
+<br/>
+
+Every child is an artist. The problem is how to remain an artist once we grow
+up.\
 ― Pablo Picasso
