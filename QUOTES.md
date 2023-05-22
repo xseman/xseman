@@ -337,3 +337,9 @@ If you knew how much work was put into it, you wouldn't call it genius.\
 Every child is an artist. The problem is how to remain an artist once we grow
 up.\
 ― Pablo Picasso
+
+<br/>
+
+Experience is the best teacher, and the worst experiences teach the best
+lessons.\
+― Jordan Peterson
