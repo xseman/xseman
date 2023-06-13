@@ -343,3 +343,9 @@ up.\
 Experience is the best teacher, and the worst experiences teach the best
 lessons.\
 ― Jordan Peterson
+
+<br/>
+
+One of the biggest traps for smart engineers is optimizing something that
+shouldn't exist\
+― Elon Musk
