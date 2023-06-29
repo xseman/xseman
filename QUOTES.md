@@ -354,3 +354,9 @@ If you wanna hire great people and have them stay working for you, you have to
 be run by ideas, not hierarchy. The best ideas have to win, otherwise good
 people don't stay.\
 ― Steve Jobs
+
+<br/>
+
+As you get older, you have to choose between being who you want to be and who
+you are. And that's a choice that you have to make.\
+― James S.A. Corey novel
