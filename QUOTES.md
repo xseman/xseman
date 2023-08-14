@@ -360,3 +360,11 @@ people don't stay.\
 As you get older, you have to choose between being who you want to be and who
 you are. And that's a choice that you have to make.\
 ― James S.A. Corey novel
+
+<br/>
+
+Many of my brilliant friends are paralyzed by their intellects. Thinking
+overwhelms doing. Many of my successful friends are less reflective, but quick
+to action. They are always focused on moving forward. Making as many 'probably
+correct actions' as possible. A winning strategy.\
+― David Holz
