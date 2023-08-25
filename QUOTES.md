@@ -368,3 +368,8 @@ overwhelms doing. Many of my successful friends are less reflective, but quick
 to action. They are always focused on moving forward. Making as many 'probably
 correct actions' as possible. A winning strategy.\
 ― David Holz
+
+<br/>
+
+The two most powerful warriors are patience and time.\
+― Leo Tolstoy
