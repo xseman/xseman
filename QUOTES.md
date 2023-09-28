@@ -373,3 +373,9 @@ correct actions' as possible. A winning strategy.\
 
 The two most powerful warriors are patience and time.\
 ― Leo Tolstoy
+
+<br/>
+
+Those who fail to learn from the mistakes of their predecessors are destined to
+repeat them.\
+― George Santayana
