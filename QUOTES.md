@@ -379,3 +379,10 @@ The two most powerful warriors are patience and time.\
 Those who fail to learn from the mistakes of their predecessors are destined to
 repeat them.\
 ― George Santayana
+
+<br/>
+
+Don't even start considering solutions until you Understand the problem. Your\
+goal should be to "solve" the problem mostly within the problem domain, not the\
+solution domain.\
+― Oz Nova
