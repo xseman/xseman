@@ -386,3 +386,12 @@ Don't even start considering solutions until you Understand the problem. Your\
 goal should be to "solve" the problem mostly within the problem domain, not the\
 solution domain.\
 ― Oz Nova
+
+<br/>
+
+An important scientific innovation rarely makes its way by gradually winning\
+over and converting its opponents: it rarely happens that Saul becomes Paul.\
+What does happen is that its opponents gradually die out, and that the growing\
+generation is familiarized with the ideas from the beginning: another instance\
+of the fact that the future lies with the youth.\
+—  Max Planck
