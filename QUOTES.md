@@ -395,3 +395,10 @@ What does happen is that its opponents gradually die out, and that the growing\
 generation is familiarized with the ideas from the beginning: another instance\
 of the fact that the future lies with the youth.\
 —  Max Planck
+
+<br/>
+
+Live in the question, Don't be satisfied with quick answers Questions lead us on\
+a quest. Seek your own answers and not just what other people tell you. Become\
+the authority of your life.\
+— Larry Schultz
