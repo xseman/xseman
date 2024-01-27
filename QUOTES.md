@@ -402,3 +402,8 @@ Live in the question, Don't be satisfied with quick answers Questions lead us on
 a quest. Seek your own answers and not just what other people tell you. Become\
 the authority of your life.\
 — Larry Schultz
+
+<br/>
+
+An idiot admires complexity, a genius admires simplicity.\
+— Terry A. Davis
