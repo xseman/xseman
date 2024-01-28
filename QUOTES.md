@@ -407,3 +407,8 @@ the authority of your life.\
 
 An idiot admires complexity, a genius admires simplicity.\
 — Terry A. Davis
+
+<br/>
+
+When you see a good move, look for a better one.\
+— Emanuel Lasker
