@@ -15,8 +15,9 @@ The main goal is absolute freedom to use any platform. Try to avoid lock-in at
 all cost
 
 [![alt](icons/typescript.svg)](https://www.typescriptlang.org/)
-[![alt](icons/nodejs.svg)](https://nodejs.org/)
 [![alt](icons/go.svg)](https://golang.org/)
+[![alt](icons/nodejs.svg)](https://nodejs.org/)
+[![alt](icons/deno.svg)](https://deno.land/)
 [![alt](icons/bash.svg)](https://www.gnu.org/software/bash/)
 [![alt](icons/c.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![alt](icons/webassembly.svg)](https://webassembly.org/)
@@ -25,16 +26,16 @@ all cost
 
 [![alt](icons/vscode.svg)](https://code.visualstudio.com/)
 [![alt](icons/linux.svg)](https://www.linux.org/)
-[![alt](icons/deno.svg)](https://deno.land/)
+[![alt](icons/postgres.svg)](https://www.postgresql.org/)
+[![alt](icons/mongodb.svg)](https://www.mongodb.com/)
+[![alt](icons/express.js.svg)](https://expressjs.com/)
 [![alt](icons/github.svg)](https://github.com/)
 [![alt](icons/gitlab.svg)](https://gitlab.com/)
-[![alt](icons/express.js.svg)](https://expressjs.com/)
+[![alt](icons/lit.svg)](https://lit.dev/)
+[![alt](icons/preact.svg)](https://preactjs.com/)
+[![alt](icons/react.svg)](https://reactjs.org/)
 [![alt](icons/webcomponent.svg)](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 [![alt](icons/openapi.svg)](https://www.openapis.org/)
 [![alt](icons/docker.svg)](https://www.docker.com/)
-[![alt](icons/lit.svg)](https://lit.dev/)
-[![alt](icons/react.svg)](https://reactjs.org/)
-[![alt](icons/preact.svg)](https://preactjs.com/)
-[![alt](icons/vue.svg)](https://vuejs.org/)
 
 <!-- [More skills...](./SKILLS.md) -->
