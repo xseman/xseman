@@ -412,3 +412,9 @@ An idiot admires complexity, a genius admires simplicity.\
 
 When you see a good move, look for a better one.\
 — Emanuel Lasker
+
+<br/>
+
+Consistency doesn't guarantee that you'll be successful. But not being\
+consistent guarantees that you won't be successful.\
+— Unknown
