@@ -418,3 +418,8 @@ When you see a good move, look for a better one.\
 Consistency doesn't guarantee that you'll be successful. But not being\
 consistent guarantees that you won't be successful.\
 — Unknown
+
+<br/>
+
+If you haven't clean your room, don't try to re organize the world.\
+— Jordan Peterson
