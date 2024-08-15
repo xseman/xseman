@@ -429,3 +429,7 @@ If you haven't clean your room, don't try to re organize the world.\
 Pick something you love doing so much that you'd do it for free, and turn\
 that into your career then you'll never have a sad day in your life.\
 — Neil deGrasse Tyson
+<br/>
+
+Unspoken expectations are premeditated resentments.\
+― Neil Strauss
