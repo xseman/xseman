@@ -11,7 +11,7 @@
 <stop offset="0.9319" stop-color="rgb(24.705882%, 66.27451%, 17.647059%)" stop-opacity="1"/>
 <stop offset="1" stop-color="rgb(24.705882%, 68.235294%, 16.470588%)" stop-opacity="1"/>
 </linearGradient>
-<image id="source-17" x="0" y="0" width="22" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAaCAYAAACzdqxAAAAABmJLR0QA/wD/AP+gvaeTAAAA40lEQVRIie3VPUoDQRgG4CeLCIKVRRobwcZKu3RWKYNNDmAT8ApewdYreIUtLG0CqVJZSCoVJBEsLAQb8afIRMKwxtlk0+0LL0wzD8wwzEdaurgL7SbuWZgDXOM76g2OlgF3cImPAnTWT1yhmQJu4AwvC8C4rzjH5l9oG7clwLgjdObBfeQrgHHzYHqsEJ31oREWlSdbB1rDNVzDCfBkDe4zHKKvug+oH8zfnOB+BfAJp2gUHWHLdBq8lQDfcYHtlDvaNZ1nX/+gOfZSwDgtDArAIY6XAeeToYdxaE/FzzQrA/4ASQqdwlMImyUAAAAASUVORK5CYII="/>
+<image id="source-17" x="0" y="0" width="22" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAaCAYAAACzdqxAAAAABmJLR0QA/wD/AP+gvaeTAAAA4ElEQVRIie3Vr0pDUQAH4G8XGQyWDBaLYFlyzWYyjpU9gGXgK/gKVl/BV1hYXBmYlhbE5ASZgsEgrMim5UzG5TrOvbtr9wc/OOV8cP5wDnHp4TG0Fzlna1oY4ifVEdpFwEPc4TsDXXeJexzFgAe4xscWMN1P3KD+H3qJaQ4w3Sd0NsFTDHYA0x0E00uJ6LqzWhiUnmQfaAVXcAVHwG97cN/hDOMSH6BxMP/SxfMO4CuuUMtaQiP8Bl85wAVu0YzZo+Pwn60iHvWTIodwjocMcIKLIuBmEvQxD+2XfU2TPOAvSQqdwsmvPFoAAAAASUVORK5CYII="/>
 <mask id="mask-0">
 <g filter="url(#filter-remove-color)">
 <use xlink:href="#source-17"/>
@@ -37,7 +37,7 @@
 <use xlink:href="#source-16"/>
 </g>
 </g>
-<image id="source-34" x="0" y="0" width="22" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAaCAYAAACzdqxAAAAABmJLR0QA/wD/AP+gvaeTAAAA40lEQVRIie3VPUoDQRgG4CeLCIKVRRobwcZKu3RWKYNNDmAT8ApewdYreIUtLG0CqVJZSCoVJBEsLAQb8afIRMKwxtlk0+0LL0wzD8wwzEdaurgL7SbuWZgDXOM76g2OlgF3cImPAnTWT1yhmQJu4AwvC8C4rzjH5l9oG7clwLgjdObBfeQrgHHzYHqsEJ31oREWlSdbB1rDNVzDCfBkDe4zHKKvug+oH8zfnOB+BfAJp2gUHWHLdBq8lQDfcYHtlDvaNZ1nX/+gOfZSwDgtDArAIY6XAeeToYdxaE/FzzQrA/4ASQqdwlMImyUAAAAASUVORK5CYII="/>
+<image id="source-34" x="0" y="0" width="22" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAaCAYAAACzdqxAAAAABmJLR0QA/wD/AP+gvaeTAAAA4ElEQVRIie3Vr0pDUQAH4G8XGQyWDBaLYFlyzWYyjpU9gGXgK/gKVl/BV1hYXBmYlhbE5ASZgsEgrMim5UzG5TrOvbtr9wc/OOV8cP5wDnHp4TG0Fzlna1oY4ifVEdpFwEPc4TsDXXeJexzFgAe4xscWMN1P3KD+H3qJaQ4w3Sd0NsFTDHYA0x0E00uJ6LqzWhiUnmQfaAVXcAVHwG97cN/hDOMSH6BxMP/SxfMO4CuuUMtaQiP8Bl85wAVu0YzZo+Pwn60iHvWTIodwjocMcIKLIuBmEvQxD+2XfU2TPOAvSQqdwsmvPFoAAAAASUVORK5CYII="/>
 <mask id="mask-1">
 <g filter="url(#filter-remove-color)">
 <use xlink:href="#source-34"/>
