@@ -440,3 +440,10 @@ Unspoken expectations are premeditated resentments.\
 The difference between masters and beginners is that masters have failed more\
 times than beginners have even tried.\
 ― Stephen McCranie
+
+<br/>
+
+What's good and bad in programming languages is largely a matter of opinion\
+rather than fact, despite the certainty with which many people argue about even
+the most trivial features.\
+― Rob Pike
