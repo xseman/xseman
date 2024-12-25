@@ -16,6 +16,7 @@ all cost
 [![alt](icons/typescript.svg)](https://www.typescriptlang.org/)
 [![alt](icons/go.svg)](https://golang.org/)
 [![alt](icons/nodejs.svg)](https://nodejs.org/)
+[![alt](icons/bun.svg)](https://bun.sh/)
 [![alt](icons/deno.svg)](https://deno.land/)
 [![alt](icons/bash.svg)](https://www.gnu.org/software/bash/)
 [![alt](icons/c.svg)](https://en.wikipedia.org/wiki/C_(programming_language))

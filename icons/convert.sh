@@ -12,7 +12,7 @@ cd "$(dirname "$0")" || exit 1
 TEMP="$(mktemp -d)" || exit
 
 for svg in *.svg; do
-    rsvg-convert -a -w 22 -f svg "${svg}" -o "${TEMP}/${svg}"
+    rsvg-convert -a -w 22 -h 22 -f svg "${svg}" -o "${TEMP}/${svg}"
 done
 
 for svg in "${TEMP}"/*.svg; do
