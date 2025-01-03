@@ -447,3 +447,8 @@ What's good and bad in programming languages is largely a matter of opinion\
 rather than fact, despite the certainty with which many people argue about even
 the most trivial features.\
 ― Rob Pike
+
+<br/>
+
+If I can't trust your no, I can't trust your yes.\
+― Joe Hudson
