@@ -452,3 +452,8 @@ the most trivial features.\
 
 If I can't trust your no, I can't trust your yes.\
 ― Joe Hudson
+
+<br/>
+
+There are no solutions. There are only trade-offs.\
+― Thomas Sowell
