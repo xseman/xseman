@@ -6,8 +6,6 @@ simplicity, clarity, and frugality. I try to delete more code than I write.
 > Simplicity is complicated\
 > ― Rob Pike
 
-[Favourite quotes...](./QUOTES.md)
-
 ### Languages & Tools 🔨
 
 The main goal is absolute freedom to use any platform. Try to avoid lock-in at
