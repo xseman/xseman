@@ -457,3 +457,10 @@ If I can't trust your no, I can't trust your yes.\
 
 There are no solutions. There are only trade-offs.\
 ― Thomas Sowell
+
+<br/>
+
+A bug is never just a mistake. It represents something bigger. An error of
+thinking that makes you who you are.
+
+― Elliot (Mr. Robot)
