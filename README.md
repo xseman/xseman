@@ -26,9 +26,9 @@ all cost
 [![alt](icons/lit.svg)](https://lit.dev/)
 [![alt](icons/preact.svg)](https://preactjs.com/)
 [![alt](icons/openapi.svg)](https://www.openapis.org/)
+[![alt](icons/ansible.svg)](https://www.redhat.com/en/technologies/management/ansible)
 [![alt](icons/podman.svg)](https://podman.io/)
 [![alt](icons/docker.svg)](https://www.docker.com/)
 [![alt](icons/postgres.svg)](https://www.postgresql.org/)
 [![alt](icons/mongodb.svg)](https://www.mongodb.com/)
-
-<!-- [More skills...](./SKILLS.md) -->
+[![alt](icons/hetzner.svg)](https://www.hetzner.com/cloud/)
