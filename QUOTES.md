@@ -464,3 +464,9 @@ A bug is never just a mistake. It represents something bigger. An error of
 thinking that makes you who you are.
 
 ― Elliot (Mr. Robot)
+
+<br/>
+
+Comparison is the thief of joy.
+
+― Theodore Roosevelt
