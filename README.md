@@ -1,7 +1,8 @@
 ### Hello, Friend 👋
 
 I'm hobbyist and researcher interested in software development with focus on\
-simplicity, clarity, and frugality. I try to delete more code than I write.
+simplicity, clarity, and frugality. I try to delete more code than I write and\
+I follow the “you build it, you run it” approach for ownership and reliability.
 
 > Simplicity is complicated\
 > ― Rob Pike
