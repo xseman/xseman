@@ -470,3 +470,10 @@ thinking that makes you who you are.
 Comparison is the thief of joy.
 
 ― Theodore Roosevelt
+
+<br/>
+
+Functional programming is great for solving hard problems, but it’s too\
+complicated for solving easy problems.\
+
+― Joe Armstrong
